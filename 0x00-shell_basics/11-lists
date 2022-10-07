@@ -1,6 +1,2 @@
 #!/bin/bash
-ls -la
-cd ..
-ls -la
-/root
-ls -la
+ls ../.. /root -la
